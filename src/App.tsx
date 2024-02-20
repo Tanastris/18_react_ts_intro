@@ -1,6 +1,8 @@
 function App() {
   return (
-    <div>App</div>
+    <div className="container">
+      <h1 className="display-2">React dev app</h1>
+    </div>
   )
 }
 
